@@ -1,0 +1,15 @@
+indexes:
+
+- kind: LabJobsDB
+  ancestor: no
+  properties:
+ - name: advisoremail
+ - name: useremail
+   direction: desc
+
+- kind: LabJobsDB
+  ancestor: no
+  properties:
+  - name: advisoremail
+  - name: useremail
+    direction: asc

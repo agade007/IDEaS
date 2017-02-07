@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang='eng'>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <title>Innovation, Design and Entrepreneurship (IDEaS) | Stevens Institute of Technology</title>
+    <link type="text/css" rel="stylesheet" href="/css/style.css" />
+    <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/cssapi/d0b486e3-1465-45e2-b0d2-2f285e3dd330.css"/>
+    <link rel="stylesheet" href="http://www.stevens.edu/sites/all/themes/stevens/css/site.css?t=201701121240"/>
+</head>
+<div class="header_push_mobile"></div>
+<div class="site_alert_placeholder"></div>
+<header id="header" class="header" role="banner">
+    <div class="header_container">
+
+        <a href="https://www.stevens.edu" class="header_site_link">
+            <div class="header_chevron"></div>
+            <div class="header_logo">
+                <img src="http://www.stevens.edu/sites/all/themes/stevens/images/bw_logo.png" alt="Stevens Institute of Technology - The Innovation University®" width="320" height="140" >
+            </div>
+        </a>
+<div class="secondary_nav">
+                <div class="secondary_nav_item nav_hover nav_button_hover">
+                    <button class="secondary_nav_button apply_button">Apply</button>
+                    <nav class="secondary_nav_links">
+                        <a href="https://www.stevens.edu/admissions/undergraduate-admissions/how-apply" class="secondary_nav_link">Undergraduate</a><a
+                            href="https://gradadmissions.stevens.edu/apply/" class="secondary_nav_link">Graduate</a>
+                    </nav>
+                </div>
+                <div class="secondary_nav_item nav_hover nav_button_hover">
+                    <button class="secondary_nav_button giving_button">Giving</button>
+                    <nav class="secondary_nav_links">
+                        <a href="https://connect.stevens.edu/makeagift" class="secondary_nav_link">Give Now</a><a href="https://www.stevens.edu/directory/alumni-engagement-development/give-stevens"
+                                                                                      class="secondary_nav_link">Learn
+                        about Giving</a><a href="https://power.stevens.edu/" class="secondary_nav_link">The Power of
+                        Stevens Campaign</a></nav>
+                </div>
+                <div class="secondary_nav_item nav_hover nav_button_hover">
+                    <button class="secondary_nav_button i_am_a_button">I am a&hellip;</button>
+                    <nav class="secondary_nav_links">
+                        <a href="/future-student" class="secondary_nav_link">Future Student​</a><a
+                            href="/parents-and-family-members" class="secondary_nav_link">​Parents and Family
+                        Members</a><a href="/stevens-alumnusa" class="secondary_nav_link">Stevens Alumnus/a</a><a
+                            href="/high-school-counselor" class="secondary_nav_link">​High School Counselor</a><a
+                            href="/corporate-partner" class="secondary_nav_link">​Corporate Partner</a><a
+                            href="/about-stevens" class="secondary_nav_link">Visitor </a><a href="/current-student"
+                                                                                            class="secondary_nav_link">​Current
+                        Student</a><a href="/faculty-0" class="secondary_nav_link">Faculty/Staff Member</a><a
+                            href="/friend-stevens" class="secondary_nav_link">​Friend of Stevens</a> <a
+                            href="https://my.stevens.edu" class="secondary_nav_link my_stevens_link">Log in to
+                        mySTEVENS</a>
+                    </nav>
+                </div>
+
+                <div class="secondary_nav_item nav_hover nav_button_hover">
+                    <button class="secondary_nav_button search_button">Search</button>
+                    <div class="search_dropdown search_module">
+                        <form class="search_form"
+                              action="/research-entrepreneurship/innovation-entrepreneurship/ideas-proof-lab"
+                              method="post" id="search-block-form" accept-charset="UTF-8">
+                            <div>
+                                <div class="container-inline">
+                                    <h2 class="element-invisible">Search form</h2>
+                                    <div class="form-item form-type-textfield form-item-search-block-form">
+                                        <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+                                        <input title="Enter the terms you wish to search for."
+                                               class="search_input form-text" autocomplete="off" type="text"
+                                               id="edit-search-block-form--2" name="search_block_form" value=""
+                                               size="15" maxlength="128"/>
+                                    </div>
+                                    <div class="form-actions form-wrapper" id="edit-actions"><input
+                                            class="search_submit form-submit" type="submit" id="edit-submit" name="op"
+                                            value="Go"/></div>
+                                    <input type="hidden" name="form_build_id"
+                                           value="form-pSQDEesPY3AUW39vtsQoFJxvEQ753SIZYXQ4bf8JNN8"/>
+                                    <input type="hidden" name="form_id" value="search_block_form"/>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="utility_nav nav_hover nav_button_hover">
+                <button class="utility_nav_button">Utilities</button>
+                <nav class="utility_nav_links">
+                    <a class="utility_nav_link" href="https://my.stevens.edu">myStevens</a>
+                </nav>
+            </div>
+            <nav class="primary_nav">
+                <ul class="menu">
+                    <div class="primary_nav_item nav_hover"><a class="primary_nav_link two_lines" href="/about-stevens" style="font-size:100%">About
+                        <span>Stevens</span></a>
+                        <div class="primary_nav_children"><a class="primary_nav_child_link"
+                                                             href="/about-stevens/mission">Mission</a><a
+                                class="primary_nav_child_link" href="/about-stevens/stevens-history">Stevens History</a><a
+                                class="primary_nav_child_link" href="/about-stevens/facts-statistics">Facts &
+                            Statistics</a><a class="primary_nav_child_link"
+                                             href="/about-stevens/rankings-and-recognition">Rankings and Recognition</a><a
+                                class="primary_nav_child_link" href="/about-stevens/leadership">Leadership</a><a
+                                class="primary_nav_child_link" href="/about-stevens/strategic-plan">Strategic Plan</a><a
+                                class="primary_nav_child_link" href="/about-stevens/sustainability">Sustainability</a><a
+                                class="primary_nav_child_link" href="/about-stevens/community-engagement">Community
+                            Engagement</a><a class="primary_nav_child_link"
+                                             href="/about-stevens/university-policy-library">University Policy
+                            Library</a><a class="primary_nav_child_link" href="/about-stevens/accreditation">Accreditation</a><a
+                                class="primary_nav_child_link" href="/about-stevens/consumer-information">Consumer
+                            Information</a></div>
+                    </div>
+                    <div class="primary_nav_item nav_hover"><a class="primary_nav_link"
+                                                               href="https://ideas-web-engine.appspot.com/">Learn</a>
+                        <div class="primary_nav_children"><a class="primary_nav_child_link"
+                                                             href="/admissions/undergraduate-admissions">Undergraduate
+                            Admissions</a><a class="primary_nav_child_link" href="/admissions/graduate-admissions">Graduate
+                            Admissions</a><a class="primary_nav_child_link" href="/admissions/stevens-veterans-office">Stevens
+                            Veterans Office</a><a class="primary_nav_child_link"
+                                                  href="/admissions/pre-college-programs">Pre-College Programs</a><a
+                                class="primary_nav_child_link" href="/admissions/tuition-financial-aid">Tuition &
+                            Financial Aid</a><a class="primary_nav_child_link" href="/admissions/success-after-stevens">Success
+                            After Stevens</a></div>
+                    </div>
+                    <div class="primary_nav_item nav_hover"><a class="primary_nav_link" href="http://ideas-web-engine.appspot.com/">Do</a>
+                        <div class="primary_nav_children"><a class="primary_nav_child_link"
+                                                             href="/academics/undergraduate-studies">Undergraduate
+                            Studies</a><a class="primary_nav_child_link" href="/academics/graduate-studies">Graduate
+                            Studies</a><a class="primary_nav_child_link" href="/academics/colleges-schools">Colleges &
+                            Schools</a><a class="primary_nav_child_link" href="/academics/online-programs">Online
+                            Programs</a><a class="primary_nav_child_link" href="/academics/academic-catalog">Academic
+                            Catalog</a><a class="primary_nav_child_link"
+                                          href="/academics/technology-entrepreneurial-thinking">Technology &
+                            Entrepreneurial Thinking</a><a class="primary_nav_child_link"
+                                                           href="/academics/corporate-and-professional-education">Corporate
+                            and Professional Education</a><a class="primary_nav_child_link"
+                                                             href="/academics/global-opportunities">Global
+                            Opportunities</a><a class="primary_nav_child_link" href="/academics/academic-culture">Academic
+                            Culture</a><a class="primary_nav_child_link" href="http://library.stevens.edu">Library</a>
+                        </div>
+                    </div>
+                    <div class="primary_nav_item nav_hover"><a class="primary_nav_link active two_lines"
+                                                               href="http://ideas-web-engine.appspot.com"/>Pitch</a>
+                        <div class="primary_nav_children"><a class="primary_nav_child_link"
+                                                             href="/research-entrepreneurship/research-centers-labs">Research
+                            Centers & Labs</a><a class="primary_nav_child_link"
+                                                 href="/research-entrepreneurship/core-research-areas">Core Research
+                            Areas</a><a class="primary_nav_child_link"
+                                        href="/research-entrepreneurship/annual-innovation-expo">Annual Innovation
+                            Expo</a><a class="primary_nav_child_link"
+                                       href="/research-entrepreneurship/faculty-research">Faculty Research</a><a
+                                class="primary_nav_child_link" href="/research-entrepreneurship/student-research">Student
+                            Research</a><a class="primary_nav_child_link"
+                                           href="/research-entrepreneurship/innovation-entrepreneurship">Innovation &
+                            Entrepreneurship</a><a class="primary_nav_child_link"
+                                                   href="/research-entrepreneurship/stevens-venture-center">Stevens
+                            Venture Center</a><a class="primary_nav_child_link"
+                                                 href="/research-entrepreneurship/solar-decathlon">Solar Decathlon</a><a
+                                class="primary_nav_child_link" href="/research-entrepreneurship/working-stevens">Working
+                            with Stevens</a></div>
+                    </div>
+                    <div class="primary_nav_item nav_hover"><a class="primary_nav_link" href="http://ideas-web-engine.appspot.com/">About
+                      </a>
+                        <div class="primary_nav_children"><a class="primary_nav_child_link"
+                                                             href="/campus-life/living-hoboken">​Living in Hoboken</a><a
+                                class="primary_nav_child_link" href="/campus-life/residence-life">Residence Life</a><a
+                                class="primary_nav_child_link" href="/campus-life/undergraduate-student-life">Undergrad
+                            Student Life</a><a class="primary_nav_child_link"
+                                               href="/campus-life/graduate-student-affairs">Graduate Student Affairs</a><a
+                                class="primary_nav_child_link" href="/campus-life/health-wellness">Health & Wellness</a><a
+                                class="primary_nav_child_link" href="/campus-life/diversity-and-inclusion">Diversity and
+                            Inclusion</a><a class="primary_nav_child_link"
+                                            href="/campus-life/athletics">​Athletics</a><a
+                                class="primary_nav_child_link" href="/campus-life/arts-campus">Arts on Campus</a><a
+                                class="primary_nav_child_link" href="/campus-life/greek-life-stevens">Greek Life at
+                            Stevens</a><a class="primary_nav_child_link" href="/campus-life/transportation">Transportation</a><a
+                                class="primary_nav_child_link" href="/campus-life/commencement">Commencement</a></div>
+                    </div>
+                </ul>
+            </nav>
+            <script async="async" src="https://gradadmissions.stevens.edu/ping">/**/</script>
+        </div>
+
+        <button class="mobile_navigation_handle js-mobile_handle">Navigation &amp; Search<span
+                class="mobile_navigation_close">Close</span></button>
+</header>
+<center> <H1>
+    Innovation, Design and Entrepreneurship (IDEaS) Program <BR> PROtotype Object Fabrication (PROOF) Laboratory  </H1>
+    <H2> Carnegie 1st Floor, Stevens Institute of Technology<BR> Hoboken, NJ 07030 </H2></center> 
+<center>
+    <table width=95% id="table-3"> 
+    <tr>
+    <td width =70% align="center" style="vertical-align:middle" ></td> </tr>
+    <tr> <td width =30% valign="top"> <h2> Useful Links </h2>
+    <ul>
+    <li> <A Href="/assets/instructions.pdf" style="color:red"> Job Submission and Delivery Process </A> </li>
+    <li> <A Href="/assets/prooflab-machines.pdf" style="color:red"> Printers in the lab </A> </li>
+    <li> Material Property Datasheets</li>
+    <ul>
+    <li><A Href="/assets/PJ-full-pallette.pdf" style="color:red"> Objet Full Pallette </A> </li>
+    <li><A Href="/assets/polyjet_materials_data.pdf" style="color:red"> Polyjet Materials </A> </li>
+    <li><A Href="/assets/digital-materials.pdf" style="color:red"> Objet Digital Materials </A> </li>
+    <li><A Href="/assets/absplus.pdf" style="color:red"> Mojo/U-Print/Dimension (FDM) ABS+ </A> </li>
+    <li><A Href="/assets/makerbot-pla-abs.pdf" style="color:red"> Makerbot PLA and ABS </A> </li>
+    <li><A Href="http://www.stratasys.com/materials/material-safety-data-sheets" style="color:red"> MSDS for all Stratasys Materials </A> </li>
+    </ul>
+    <li> Reduce the cost of materials with appropriate <A HREF="/assets/infill.jpg"> infill. </A>
+    <li> Cost guide for lab printers:
+         <ul>
+         <li> Setup cost (minimum charge) : $5 +
+         <li> <A href="https://store.makerbot.com/replicator2.html" style="color:blue" >  Makerbot </A>: $2 per in^3 </li>
+         <li> <A href="http://www.stratasys.com/3d-printers/idea-series/mojo" style="color:blue" > Mojo </A> |
+          <A href="http://www.stratasys.com/3d-printers/design-series/dimension-1200es" style="color:blue" > Dimension </A>|
+          <A href="http://www.stratasys.com/3d-printers/idea-series/uprint-se" style="color:blue" > U Print </A> : $6 per in^3   </li>
+         <li> <A href="http://www.stratasys.com/3d-printers/production-series/connex3-systems" style="color:blue" >  Objet Connex350</A>: $15 per in^3  </li>
+         </ul>
+         <li> <A href="http://lazarsoft.info/objstl/#" style="color:"blue"> STL File Viewer </A> </li>
+         <li> <A href="http://gcode.ws/" style="color:"blue"> G-Code Viewer  </A> </li>
+         <li> <A href="http://www.greentoken.de/onlineconv/" style="color:"blue"> Convert File Format </A> </li>
+         <li> <A Href="http://www.shapeways.com/tutorials/easy-3d-modeling-for-3d-printing-tutorial-for-beginners" style="color:red"> Guide to 3D Printing </A>  </li>
+         <li> <A Href="http://www.3dpartprice.com/" style="color:red"> Estimate rough cost here </A> <BR> <B> Guide only and not an actual quote </B>   </li>
+         <li> So we can't print what you want? <a href="https://www.3dhubs.com/"> Try here. </A>
+    </ul>
+    <p align="left">
+    <A HREF="http://proof-lab-jobrequests.appspot.com" style="color:blue"> Login Page  </A> </P>
+    <p align="left">
+    <A HREF="http://proof-lab-jobrequests.appspot.com/admin" style="color:blue" > Admin Access  </A> </P>
+    </td>
+    <td width = 70%>
+"""
+
+FOOTER_STRING = """ 
+</td> </tr> </table> </center></body>
+</html>"""

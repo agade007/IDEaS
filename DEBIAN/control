@@ -1,0 +1,8 @@
+Package: sublime-text
+Version: 3083
+Architecture: amd64
+Maintainer: Sublime HQ <support@sublimetext.com>
+Section: editors
+Priority: optional
+Description: Sublime Text is a sophisticated text editor for code, markup and prose
+Installed-Size: 14200

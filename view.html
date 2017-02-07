@@ -1,0 +1,125 @@
+<html lang="en" class="no-js">
+    <head>
+    <title>Proof Lab Job Requests </title>
+            <meta charset="UTF-8" />
+            <link rel="stylesheet" href="/css/style.css" />
+        </head>
+
+<head>
+    <title>Proof Lab:: Job Submissions</title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+  <style>
+   .chromeFrameInstallDefaultStyle {
+     margin-top: 10px;
+     width: 800px;
+     border: 5px solid blue;
+   }
+  </style>
+  
+  <script src="/js/Three.js"></script>
+  <script src="/js/plane.js"></script>
+  <script src="/js/thingiview.js"></script>
+
+  <script>
+    window.onload = function() {
+      // You may want to place these lines inside an onload handler
+      CFInstall.check({
+        mode: "inline", // the default
+        node: "prompt"
+      });
+
+      thingiurlbase = "/js";
+      thingiview = new Thingiview("viewer");
+      thingiview.setObjectColor('#C0D8F0');
+      thingiview.initScene();
+      // thingiview.setShowPlane(true);
+      thingiview.loadSTL("$KISHORE$");
+    }
+    
+    function getUrlVars() {
+    	var vars = {};
+    	var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+    		vars[key] = value;
+    	});
+    	return vars;
+    }
+  </script>
+</head>
+<body>
+    <center>
+        <table width=95% id="table-3">
+            <tr>
+                <td width =30% align="center" style="vertical-align:middle" > <IMG src="/assets/stevens-logo.png" height=150> </td>
+                <td width =70% align="center" style="vertical-align:middle" > <H1>
+                    Innovation, Design and Entrepreneurship (IDEaS) Program <BR> PROtotype Object Fabrication (PROOF) Laboratory  </H1>
+                <H2> Carnegie 1st Floor, Stevens Institute of Technology<BR> Hoboken, NJ 07030 </H2> </td> </tr>
+            <tr> <td width =30% valign="top"> <h2> Useful Links </h2>
+    <ul>
+    <li> <A Href="/assets/instructions.pdf" style="color:red"> Job Submission and Delivery Process </A> </li>
+    <li> <A Href="/assets/prooflab-machines.pdf" style="color:red"> Printers in the lab </A> </li>
+    <li> Material Property Datasheets</li>
+    <ul>
+    <li><A Href="/assets/PJ-full-pallette.pdf" style="color:red"> Objet Full Pallette </A> </li>
+    <li><A Href="/assets/polyjet_materials_data.pdf" style="color:red"> Polyjet Materials </A> </li>
+    <li><A Href="/assets/digital-materials.pdf" style="color:red"> Objet Digital Materials </A> </li>
+    <li><A Href="/assets/absplus.pdf" style="color:red"> Mojo/U-Print/Dimension (FDM) ABS+ </A> </li>
+    <li><A Href="/assets/makerbot-pla-abs.pdf" style="color:red"> Makerbot PLA and ABS </A> </li>
+    <li><A Href="http://www.stratasys.com/materials/material-safety-data-sheets" style="color:red"> MSDS for all Stratasys Materials </A> </li>
+    </ul>
+    <li> Reduce the cost of materials with appropriate <A HREF="/assets/infill.jpg"> infill. </A>
+    <li> Cost guide for lab printers:
+         <ul>
+         <li> Setup cost (minimum charge) : $5 +
+         <li> <A href="https://store.makerbot.com/replicator2.html" style="color:blue" >  Makerbot </A>: $2 per in^3 </li>
+         <li> <A href="http://www.stratasys.com/3d-printers/idea-series/mojo" style="color:blue" > Mojo </A> |
+          <A href="http://www.stratasys.com/3d-printers/design-series/dimension-1200es" style="color:blue" > Dimension </A>|
+          <A href="http://www.stratasys.com/3d-printers/idea-series/uprint-se" style="color:blue" > U Print </A> : $6 per in^3   </li>
+         <li> <A href="http://www.stratasys.com/3d-printers/production-series/connex3-systems" style="color:blue" >  Objet Connex350</A>: $15 per in^3  </li>
+         </ul>
+         <li> <A href="http://lazarsoft.info/objstl/#" style="color:"blue"> STL File Viewer </A> </li>
+         <li> <A href="http://gcode.ws/" style="color:"blue"> G-Code Viewer  </A> </li>
+         <li> <A href="http://www.greentoken.de/onlineconv/" style="color:"blue"> Convert File Format </A> </li>
+         <li> <A Href="http://www.shapeways.com/tutorials/easy-3d-modeling-for-3d-printing-tutorial-for-beginners" style="color:red"> Guide to 3D Printing </A>  </li>
+         <li> <A Href="http://www.3dpartprice.com/" style="color:red"> Estimate rough cost here </A> <BR> <B> Guide only and not an actual quote </B>   </li>
+         <li> So we can't print what you want? <a href="https://www.3dhubs.com/"> Try here. </A>
+        
+    </ul>                        <p align="left">
+                        <A HREF="http://proof-lab-jobrequests.appspot.com" style="color:blue"> Login Page  </A> </P>
+                        <p align="left">
+                        <A HREF="http://proof-lab-jobrequests.appspot.com/admin" style="color:blue" > Admin Access  </A> </P>
+                        </td>
+            <td width = 70% align ="center" >
+
+<div id="prompt">
+  <!-- if IE without GCF, prompt goes here -->
+</div>
+
+<p>
+  <input onclick="thingiview.setCameraView('top');" type="button" value="Top" />
+  <input onclick="thingiview.setCameraView('side');" type="button" value="Side" /> 
+  <input onclick="thingiview.setCameraView('bottom');" type="button" value="Bottom" /> 
+  <input onclick="thingiview.setCameraView('diagonal');" type="button" value="Diagonal" /> 
+ 
+  <input onclick="thingiview.setCameraZoom(5);" type="button" value="Zoom +" /> 
+  <input onclick="thingiview.setCameraZoom(-5);" type="button" value="Zoom -" /> 
+ 
+  Rotation: <input onclick="thingiview.setRotation(true);" type="button" value="on" /> |
+  <input onclick="thingiview.setRotation(false);" type="button" value="off" />
+</p>
+
+<div id="viewer" style="width:80%;height:400px"  ></div>
+
+<p>
+  <input onclick="thingiview.setObjectMaterial('wireframe');" type="button" value="Wireframe" /> 
+  <input onclick="thingiview.setObjectMaterial('solid');" type="button" value="Solid" />
+  Plane: <a href="#" onclick="thingiview.setShowPlane(false)">Hide</a> | <a href="#" onclick="thingiview.setShowPlane(true)">Show</a> |
+  Background Color: <a href="#" onclick="thingiview.setBackgroundColor('#606060')">Gray</a> | <a href="#" onclick="thingiview.setBackgroundColor('#ffffff')">White</a> | <a href="#" onclick="thingiview.setBackgroundColor('#000000')">Black</a> <br/>
+  Object Color: <a href="#" onclick="thingiview.setObjectColor('#ffffff')">White</a> | <a href="#" onclick="thingiview.setObjectColor('#aa0000')">Red</a> | <a href="#" onclick="thingiview.setObjectColor('#CDFECD')">Green</a> | <a href="#" onclick="thingiview.setObjectColor('#C0D8F0')">Blue</a><br/>
+</p>
+</td> </tr> </table> </center>
+</body>
+</html>

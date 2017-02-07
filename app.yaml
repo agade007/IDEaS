@@ -1,0 +1,34 @@
+application: proof-lab-jobrequests
+version: 1
+runtime: python27
+api_version: 2
+threadsafe: yes
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /css
+  static_dir: css
+
+- url: /assets
+  static_dir: assets
+
+- url: /js
+  static_dir: js
+
+- url: /threejs
+  static_dir: threejs
+
+- url: .*
+  script: main.app
+
+- url: /_ah/bounce
+  script: handle_bounced_email.app
+  login: admin
+
+libraries:
+- name: webapp2
+  version: "2.5.2"
+
