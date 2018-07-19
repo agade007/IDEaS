@@ -12,5 +12,5 @@
        <li>Students can reserve a slot from the available slots for shop training.</li>
         <li>Students are restricted to one slot per week.</li>
         <li>Students can only cancel/update their reservation within 24 hours.</li>
-        </ul>
+        </ul><br>
 CAN'T SHARE MUCH INFORMATION/CODE ABOUT THE INFRASTRUCTURE HERE AS THE SITE IS PRIVATELY OWNED BY STEVENS IDEaS DEPARTMENT
