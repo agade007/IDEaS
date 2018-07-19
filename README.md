@@ -13,4 +13,4 @@
         <li>Students are restricted to one slot per week.</li>
         <li>Students can only cancel/update their reservation within 24 hours.</li>
         </ul>
-CAN'T SHARE MUCH INFORMATION/CODE ABOUT THE INFRASRUCTURE HERE AS THE SITE IS PRIVATELY OWNED BY STEVENS IDEaS DEPARTMENT
+CAN'T SHARE MUCH INFORMATION/CODE ABOUT THE INFRASTRUCTURE HERE AS THE SITE IS PRIVATELY OWNED BY STEVENS IDEaS DEPARTMENT
